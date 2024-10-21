@@ -1,10 +1,10 @@
 {   
     "bot1": {
-        "source": "",
-        "branch": "",
+        "source": "https://royal-luku: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@github.com/royal-luku/StarCineBot",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "7064215142:AAFBCkJ-2pEHyscCc5gHMCwz_0qoHXyWSnM"
         },
-        "run": ""
+        "run": "bot.py"
     }
 }
